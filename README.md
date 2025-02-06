@@ -9,10 +9,10 @@ The project involves developing an integrated framework for simulating FA in rea
 1. Download and install Anaconda from the site:  https://docs.anaconda.com/anaconda/install/
 2. Create environment named "fa_5glena" with python 3.8.20.
 3. Inside environment "fa_5glena" create a root directory called "myproject"
-4. Inside the root directory "myproject" create subdirectories:
-      "FA" - where all FA server and client related files will be placed.
-      "shared_memory" - where all shared memory related files will be placed
-      "sim_results" - where network and FA simulation results will be stored.
+4. Inside the root directory "myproject" create subdirectories:<br />
+      "FA" - where all FA server and client related files will be placed.<br />
+      "shared_memory" - where all shared memory related files will be placed<br />
+      "sim_results" - where network and FA simulation results will be stored.<br />
    After installation of 5G-LENA, a 4th subdirectory named "ns-3-dev" will be generated in this directory.
 5. Find other installation steps in each directory's configuration file. See in 5glena, fa, shared_memory directories.
 
