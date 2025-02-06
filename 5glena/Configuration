@@ -1,4 +1,4 @@
-Configuration
+NS-3 5G-LENA Network Configuration
 
 1. In environment "fa_5glena" inside root directory "myproject", 5G-LENA is installed.
 2. Download and install 5G-LENA from:
