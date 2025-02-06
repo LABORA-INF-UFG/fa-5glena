@@ -1,1 +1,12 @@
+Configuration
+
+1. Download and install anaconda from the site "https://docs.anaconda.com/anaconda/install/"
+2. Download and install 5G-LENA from the site https://5g-lena.cttc.es/
+2. Create environment named "fa_5glena" with python 3.8.20 and at least the following packages:
+    Tensorflow 
+    Numpy
+    Pandas
+    Matṕlotlib
+    scipy
+    scikit-learn
 
