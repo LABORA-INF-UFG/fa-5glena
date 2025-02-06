@@ -18,7 +18,7 @@ The project involves developing an integrated framework for simulating FA in rea
 6. The file "run_project.py" is placed in the root directory "myproject".
 
 This project was created in Anaconda, following the structure: "anaconda3/envs/fa_5glena/myproject", where
-myproject as the root dirctory that contains subdirectories: FA, ns-3-dev, shared_memory and sim_results.
+"myproject" is the root dirctory that contains subdirectories: FA, ns-3-dev, shared_memory and sim_results.
 
 ## Steps to Run the Project
 1. Open the Linux terminal (we used gnome-terminal).
