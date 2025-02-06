@@ -1,1 +1,16 @@
+Shared Memory Configuration
 
+1. In environment "fa_5glena", inside directory "myproject" create subdirectory named "shared_memory".
+2. Inside shared_memory subdirectory place the codes: 
+    shared_cmd.cc,
+    shared_dr.cc, 
+    shared_read_cmd.cc, 
+    shared_write_cmd.cc, 
+    shared_write_dr.cc,
+    shared_read_cmd2.py,
+    shared_read_dr2.py,
+    shared_write_cmd2.py.
+3. All c++ codes must be compiled first to generate executable files, using following command on terminal:
+    g++ -std=c++17 -o <outputfile_name.so> <compiledfile_name.cc> -lrt
+      For example, to compile "shared_cmd.cc", use command "g++ -std=c++17 -o shared_cmd.so shared_cmd.cc -lrt"
+        which generates "shared_cmd.so" as output. Do the same for all other c++ files.
