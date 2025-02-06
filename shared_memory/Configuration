@@ -1,6 +1,6 @@
 Shared Memory Configuration
 
-1. In environment "fa_5glena", inside directory "myproject" create subdirectory named "shared_memory".
+1. In environment "fa_5glena", inside root directory "myproject" create subdirectory named "shared_memory".
 2. Inside shared_memory subdirectory place the codes: 
     shared_cmd.cc,
     shared_dr.cc, 
