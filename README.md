@@ -31,4 +31,8 @@ This project was created in Anaconda, following the structure: "anaconda3/envs/f
 4. Navegate to "myproject" root directory
 5. Run the command "python3 run_project.py" to run the project.
 
-Note: At the end of the simulation, the results are stored in "sim_results" subdirectory
+Note: At the end of the simulation, the results are stored in "sim_results" subdirectory.
+
+### Validation
+The "OptmTx_UMi_algorithm.cc" code runs optimized transmission power allocation algorithm. To run random transmission power allocation scenario, substitute the function "CalculateMinimumTxPowerForUE()" function by another code that reads transmission power from "random_txpower_dbm.csv" file found in the repository. To run maximum uniform transmission power allocation, substititute the function "CalculateMinimumTxPowerForUE()" with code that allocates maximum transmission power for all user equipments (UEs).
+
