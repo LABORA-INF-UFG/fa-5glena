@@ -13,5 +13,5 @@ Configuration
    Donwload/clone and installion instructions:
        https://cttc-lena.gitlab.io/nr/html/
        https://5g-lena.cttc.es/
-3. After installation, place the file "OptmTx_UMi_algorithm.cc" in "scracth" which is inside "ns-3-dev" subdirectory.
+3. After the installation, place the file "OptmTx_UMi_algorithm.cc" in "scracth" which is inside "ns-3-dev" subdirectory.
 4. Finally, place files "positions20ue200m.csv" and "random_txpower_dbm.csv" files in "ns-3-dev" subdirectory.
