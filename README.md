@@ -15,3 +15,4 @@ Configuration
       "shared_memory" - where all shared memory related files will be placed
       "sim_results" - where network and FA simulation results will be stored.
    After installation of 5G-LENA, a 4th subdirectory named "ns-3-dev" will be generated in this directory.
+5. Find other installation steps in each directory's configuration file. See in 5glena, fa, shared_memory directories.
