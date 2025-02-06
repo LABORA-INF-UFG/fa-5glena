@@ -19,15 +19,15 @@ The project involves developing an integrated framework for simulating FA in rea
 This project was created in anaconda, following the structure: anaconda3/envs/fa_5glena/myproject
 myproject as the root dirctory contains subdirectories: FA, ns-3-dev, shared_memory and sim_results
 
-# # Steps to Run the Project
+## Steps to Run the Project
 1. Open the Linux terminal (we used gnome-terminal).
 2. Navegate to the "shared_memory" subdirectory.
 3. Run the following commands to create and load the shared memories:
-2	g++ -std=c++17 -o shared_cmd.so shared_cmd.cc -lrt
+	g++ -std=c++17 -o shared_cmd.so shared_cmd.cc -lrt
 	g++ -std=c++17 -o shared_dr.so shared_dr.cc -lrt
 	./shared_cmd.so
 	./shared_dr.so
 4. Navegate to "myproject" root directory
 5. Run the command "python3 run_project.py" to run the project.
 
-Note: At the end of the simulation, the simulation results are stored in "sim_results" subdirectory
+Note: At the end of the simulation, the results are stored in "sim_results" subdirectory
