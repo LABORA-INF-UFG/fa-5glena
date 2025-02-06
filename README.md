@@ -15,6 +15,7 @@ The project involves developing an integrated framework for simulating FA in rea
       "sim_results" - where network and FA simulation results will be stored.	<br />
    After installation of 5G-LENA, a 4th subdirectory named "ns-3-dev" will be generated in this directory.
 5. Find other installation steps in each directory's configuration file. See in 5glena, fa, shared_memory directories.
+6. The file "run_project.py" is placed in the root directory "myproject".
 
 This project was created in anaconda, following the structure: anaconda3/envs/fa_5glena/myproject
 myproject as the root dirctory contains subdirectories: FA, ns-3-dev, shared_memory and sim_results
