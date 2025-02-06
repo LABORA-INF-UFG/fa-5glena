@@ -1,4 +1,4 @@
-FA Server-client side configuration
+FA Server-client configuration
 
 1. Make sure the anaconda environment "fa_5glena" has python 3.8.20 installed.
 2. Install the packages: Tensorflow, Numpy, Pandas, Matṕlotlib, scipy, scikit-learn and others that will be required.
