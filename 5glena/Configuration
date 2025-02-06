@@ -1,6 +1,6 @@
 Configuration
 
-1. In environment "fa_5glena" inside directory "myproject", 5G-LENA is installed.
+1. In environment "fa_5glena" inside root directory "myproject", 5G-LENA is installed.
 2. Download and install 5G-LENA from:
    2.1 Install Dependencies:
      sudo apt install g++ python3 cmake ninja-build git gir1.2-goocanvas-2.0 python3-gi python3-gi-cairo python3-pygraphviz
@@ -13,3 +13,5 @@ Configuration
    Donwload/clone and installion instructions:
        https://cttc-lena.gitlab.io/nr/html/
        https://5g-lena.cttc.es/
+3. After installation, place the file "OptmTx_UMi_algorithm.cc" in "scracth" which is inside "ns-3-dev" subdirectory.
+4. Finally, place files "positions20ue200m.csv" and "random_txpower_dbm.csv" files in "ns-3-dev" subdirectory.
