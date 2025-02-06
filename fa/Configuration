@@ -2,7 +2,7 @@ Server and client side code configuration
 
 1. Make sure the anaconda environment "fa_5glena" has python 3.8.20 installed.
 2. Install the packages: Tensorflow, Numpy, Pandas, Matṕlotlib, scipy, scikit-learn and others that will be required.
-3. Inside environment "fa_5glena" create directory named "FA".
+3. In environment "fa_5glena", inside directory "myproject" create directory named "FA".
 4. Inside FA directory place the codes: server_params.py, server2_14_csv.py, client2_14_csv.py and run_fa.py.
 
 
