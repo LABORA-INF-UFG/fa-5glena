@@ -3,7 +3,7 @@ Federated Analytics for B5G/6G networks
 
 ## Title: Channel-Aware Federated Analytics (FA) in B5G/6G Networks: Dynamic Power Allocation with NS-3 5G-LENA
 
-The project involves developing an integrated framework for simulating FA in real 5G network conditions. The framework applies two algorithms: channel-aware power allocation algorithm to efficiently allocate transmission power for user equipments (UEs) based on distance and channel conditions, and synchronous FA-5GLENA integrated algorithm to integrate the FA with NS-3 5G-LENA and aggregate results for optimized performance within 5G network conditions. 
+The project involves developing an integrated framework for simulating FA in real 5G network conditions. The framework applies two algorithms: channel-aware power allocation algorithm to efficiently allocate transmission power for user equipments (UEs) based on distance and channel conditions, and synchronous FA-5GLENA integrated algorithm to integrate the FA with NS-3 5G-LENA simulator and aggregate results for optimized performance within 5G network conditions. 
 
 ### General Project Configuration
 1. Download and install Anaconda from the site:  https://docs.anaconda.com/anaconda/install/
