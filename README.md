@@ -18,7 +18,7 @@ The project involves developing an integrated framework for simulating FA in rea
 6. The files "net_fetch_sort.cc", "net_select_stats.cc" and "run_project.py" are placed in the root directory "myproject".
 
 This project was created in Anaconda, following the structure: "anaconda3/envs/fa_5glena/myproject", where
-"myproject" is the root dirctory that contains subdirectories: FA, ns-3-dev, shared_memory and sim_results. It also containe files "net_fetch_sort.cc", "net_select_stats.cc" and "run_project.py".
+"myproject" is the root dirctory that contains subdirectories: FA, ns-3-dev, shared_memory and sim_results. It also contains files "net_fetch_sort.cc", "net_select_stats.cc" and "run_project.py".
 
 ### Steps to Run the Project
 1. Open the Linux terminal (we used gnome-terminal).
