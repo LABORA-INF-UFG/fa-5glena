@@ -29,7 +29,7 @@ This project was created in Anaconda, following the structure: "anaconda3/envs/f
 	./shared_cmd.so		<br />
 	./shared_dr.so		<br />
 4. Navegate to "myproject" root directory.
-5. Make sure the files "net_fetch_sort.cc" and "net_select_stats.cc" are also compiled and loaded in root directory before running the project.
+5. Make sure the .cc files "net_fetch_sort.cc" and "net_select_stats.cc" have already been compiled on configuration and respective .so files exist in root directory, before running the project.
 6. Run the command "python3 run_project.py" to run the project.
 
 Note: At the end of the simulation, the results are stored in "sim_results" subdirectory.
